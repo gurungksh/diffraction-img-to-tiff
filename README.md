@@ -1,4 +1,4 @@
-# img-to-tiff-exe Project
+# img-to-tiff Project
 
 This project provides a simple GUI application for converting .img files to .tiff format. The application is built using Python and utilizes libraries such as NumPy and tifffile for image processing. It is primarily designed for scientific microscopy images, especially diffraction images commonly used in materials science and related fields.
 
